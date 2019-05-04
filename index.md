@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+<a href="Prazan fajl.txt" download="download">Download-uj klikwfm app</a>
