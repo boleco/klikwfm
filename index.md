@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-<a href="Prazan fajl.txt" download="download">Download-uj klikwfm app</a>
+<a href="TelekomWFM15.apk" download="download">Download-uj Clickmobile 8.3 aplikaciju</a>
